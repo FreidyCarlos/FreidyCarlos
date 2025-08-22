@@ -76,7 +76,7 @@
 <p align= "center">
   <img
     align="center"
-    width="500"
+    width="460"
     alt="GitHub Profile Summary Card"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreidyCarlos&theme=github_dark"
   />
