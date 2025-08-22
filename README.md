@@ -78,7 +78,7 @@
     align="center"
     width="460"
     alt="GitHub Profile Summary Card"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreidyCarlos&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreidyCarlos&theme=react"
   />
   
   <br clear="both"/>
