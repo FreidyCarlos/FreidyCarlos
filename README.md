@@ -16,7 +16,7 @@
 
 ##
 
-<!-- <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/4c/65/5c/4c655cbf549069dbe31fbf8ab4319c15.jpg"/> -->
+ <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/4c/65/5c/4c655cbf549069dbe31fbf8ab4319c15.jpg"/> 
 
 <h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 21px> Languages and Tools: </h3>
 
