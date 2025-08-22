@@ -1,8 +1,11 @@
 <div align="center">
 
-<h1>Hello, welcome to Freidy Carlos's GitHub</h1>
-
-<img alt="Coding" width="50" src="https://s14.gifyu.com/images/bND8l.gif">
+<h1>Hello, welcome to Freidy Carlos's GitHub <img alt="Coding" width="50" src="https://s14.gifyu.com/images/bND8l.gif"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer%20%7C%20Gameplay%20Programmer;AI%20Programming%20%7C%20Gameplay%20Systems%20%7C%20Optimization;Unity%20%7C%20Unreal%20Engine;Active%20Game%20Jam%20Participant&font=Fira%20Code&center=true&width=850&height=45&color=99D5FA&vCenter=true&pause=1000&size=22">
+  </a>
+</p>
 
 </div>
 
